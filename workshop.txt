@@ -1,0 +1,13 @@
+version=1
+title=[B42] Clear Canopy
+description=While working on another mod I ran into this vanilla bug and was able to fix it:
+description=
+description=Since B42's giant trees, a crown next to a building can cover your rooms from the outside. Standing indoors behind it, your interior is hard to see. On upper floors it can vanish behind the foliage completely.
+description=
+description=Clear Canopy hides a giant tree while you are indoors and its crown covers your character. Step outside and it's back. No options, no keybinds.
+description=
+description=Once The Indie Stone fixes this officially, just unsubscribe. Nothing is left in your save.
+description=
+description=Requires [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3619862853]ZombieBuddy[/url] and PZ 42.20 or later.
+description=
+description=Source (MIT): https://github.com/armakupub/ClearCanopy

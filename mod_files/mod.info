@@ -1,0 +1,8 @@
+name=Clear Canopy
+poster=poster.png
+icon=icon.png
+id=ClearCanopy
+description=Hides giant tree crowns that cover your rooms while you are indoors. Small fix, delete it once the vanilla bug is patched.
+url=
+require=ZombieBuddy
+modversion=1.0.0

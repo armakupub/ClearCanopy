@@ -1,0 +1,15 @@
+# Build artifacts
+build/
+
+# Local JDK download (re-downloadable)
+tools/
+
+# Per-machine build config (see build.local.example)
+build.local
+
+# IDE / OS
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
