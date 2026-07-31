@@ -19,6 +19,10 @@ no keybinds — subscribe and forget.
 This is meant as a stopgap: once the vanilla bug is fixed, unsubscribe
 and nothing is left behind.
 
+## Get it
+
+[Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3775287604)
+
 ## Requirements
 
 - Project Zomboid B42, 42.20 or later

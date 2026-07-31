@@ -9,3 +9,6 @@ Once The Indie Stone fixes this officially, just unsubscribe. Nothing is left in
 Requires [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3619862853]ZombieBuddy[/url] and PZ 42.20 or later.
 
 Source (MIT): https://github.com/armakupub/ClearCanopy
+
+Workshop ID: 3775287604
+Mod ID: ClearCanopy

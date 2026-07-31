@@ -7,6 +7,9 @@ tools/
 # Per-machine build config (see build.local.example)
 build.local
 
+# Local Steam-upload copy of the README screenshot (PNG is canonical)
+screenshots/comparison.jpg
+
 # IDE / OS
 .idea/
 .vscode/
